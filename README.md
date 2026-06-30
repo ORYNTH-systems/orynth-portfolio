@@ -108,3 +108,17 @@ Its research develops formal architectures, executable reference implementations
 Rather than optimizing only for capability, ORYNTH investigates how integrity, continuity, admissibility, and constraint preservation can become first-class computational primitives.
 
 The organization publishes open specifications, reference laboratories, benchmark corpora, and simulation frameworks that establish reproducible foundations for constitutional computing.
+## Research Philosophy
+
+ORYNTH investigates constitutional computing: the design of systems that evaluate whether computation remains admissible under continuously changing conditions.
+
+The research is guided by several core principles:
+
+- Integrity is a measurable computational property.
+- Execution admissibility must be reconstructed at the moment of execution rather than assumed from prior authorization.
+- Identity and continuity must be formally preserved across state transitions.
+- Constraints are constitutional objects that govern execution rather than passive validation rules.
+- Simulation is valuable only when constitutional invariants remain preserved throughout execution.
+- Formal specifications, executable reference laboratories, and benchmark corpora together provide reproducible evidence for architectural claims.
+
+ORYNTH develops theory, specifications, reference implementations, and simulation frameworks that are intended to be understandable, reproducible, and independently evaluated.
