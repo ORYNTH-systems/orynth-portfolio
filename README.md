@@ -140,3 +140,15 @@ This repository serves as the frozen v1.0.0 constitutional benchmark corpus for 
 - Version: v1.0.0
 - Benchmark: 400 executable constitutional proofs
 - Status: Frozen reference benchmark
+
+---
+
+# Active Repository Index
+
+## Stable Benchmarks
+
+- CIGCS Reference Lab: https://github.com/ORYNTH-systems/cigcs-reference-lab
+
+## Runtime Research
+
+- Simulation Integrity Lab: https://github.com/ORYNTH-systems/simulation-integrity-lab
