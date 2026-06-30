@@ -122,3 +122,21 @@ The research is guided by several core principles:
 - Formal specifications, executable reference laboratories, and benchmark corpora together provide reproducible evidence for architectural claims.
 
 ORYNTH develops theory, specifications, reference implementations, and simulation frameworks that are intended to be understandable, reproducible, and independently evaluated.
+
+---
+
+# Related ORYNTH Resources
+
+- ORYNTH Portfolio: https://github.com/ORYNTH-systems/orynth-portfolio
+- CIGCS Reference Lab Release: https://github.com/ORYNTH-systems/cigcs-reference-lab/releases/tag/v1.0.0
+- Simulation Integrity Lab: https://github.com/ORYNTH-systems/simulation-integrity-lab
+
+## Portfolio Role
+
+This repository serves as the frozen v1.0.0 constitutional benchmark corpus for CIGCS.
+
+## Status
+
+- Version: v1.0.0
+- Benchmark: 400 executable constitutional proofs
+- Status: Frozen reference benchmark
